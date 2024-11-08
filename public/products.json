@@ -1,0 +1,173 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Wireless Noise Cancelling Headphones",
+      "product_image": "https://i.ibb.co.com/yY2PPrw/download.jpg",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "High-quality wireless headphones with active noise-canceling technology, long battery life, and superior sound quality.",
+      "specification": [
+        { "key": "Battery Life", "value": "30 hours" },
+        { "key": "Bluetooth Version", "value": "5.0" },
+        { "key": "Weight", "value": "250g" },
+        { "key": "Noise Cancelling", "value": "Active" }
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": { "brand": "AudioTech", "warranty": "1 year" }
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Smart LED TV 50-inch",
+      "product_image": "https://i.ibb.co.com/Wth1dhG/download-1.jpg",
+      "category": "Home Appliances",
+      "price": 499.99,
+      "description": "50-inch Smart LED TV with 4K UHD resolution and built-in streaming apps.",
+      "specification": [
+        { "key": "Screen Size", "value": "50 inch" },
+        { "key": "Resolution", "value": "4K UHD" },
+        { "key": "Smart Features", "value": "Yes" },
+        { "key": "HDMI Ports", "value": "3" }
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "other_field": { "brand": "VisionX", "energy_rating": "A+" }
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Gaming Laptop",
+      "product_image": "https://i.ibb.co.com/YQ9X6fC/download-2.jpg",
+      "category": "Computers",
+      "price": 1299.99,
+      "description": "High-performance gaming laptop with powerful graphics and fast processor.",
+      "specification": [
+        { "key": "Processor", "value": "Intel i7" },
+        { "key": "RAM", "value": "16GB" },
+        { "key": "Storage", "value": "512GB SSD" },
+        { "key": "Graphics", "value": "NVIDIA GTX 1660 Ti" }
+      ],
+      "availability": false,
+      "rating": 4.8,
+      "other_field": { "brand": "GamePro", "warranty": "2 years" }
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Cordless Vacuum Cleaner",
+      "product_image": "https://i.ibb.co.com/1RG0hLC/download-3.jpg",
+      "category": "Home Appliances",
+      "price": 149.99,
+      "description": "Lightweight and powerful cordless vacuum cleaner for easy cleaning.",
+      "specification": [
+        { "key": "Battery Life", "value": "45 minutes" },
+        { "key": "Dust Capacity", "value": "0.6L" },
+        { "key": "Weight", "value": "2.8kg" },
+        { "key": "Warranty", "value": "1 year" }
+      ],
+      "availability": true,
+      "rating": 4.3,
+      "other_field": { "brand": "CleanMax", "color": "Red" }
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Smartphone 5G",
+      "product_image": "https://i.ibb.co.com/5rHRbxf/download-4.jpg",
+      "category": "Electronics",
+      "price": 699.99,
+      "description": "5G-enabled smartphone with a stunning display and powerful camera.",
+      "specification": [
+        { "key": "Screen Size", "value": "6.5 inch" },
+        { "key": "Camera", "value": "48MP Triple Camera" },
+        { "key": "Battery", "value": "4500mAh" },
+        { "key": "Operating System", "value": "Android" }
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "other_field": { "brand": "MobileTech", "storage": "128GB" }
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Electric Kettle",
+      "product_image": "https://i.ibb.co.com/pfGhGg3/download-5.jpg",
+      "category": "Kitchen Appliances",
+      "price": 29.99,
+      "description": "Fast-boiling electric kettle with a 1.7L capacity.",
+      "specification": [
+        { "key": "Capacity", "value": "1.7L" },
+        { "key": "Power", "value": "1500W" },
+        { "key": "Material", "value": "Stainless Steel" },
+        { "key": "Auto Shut-off", "value": "Yes" }
+      ],
+      "availability": false,
+      "rating": 4.2,
+      "other_field": { "brand": "HeatWave", "color": "Silver" }
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Digital Camera",
+      "product_image": "https://i.ibb.co.com/0BTpV9v/download-6.jpg",
+      "category": "Photography",
+      "price": 849.99,
+      "description": "High-resolution digital camera with 20MP sensor and 4K video recording.",
+      "specification": [
+        { "key": "Resolution", "value": "20MP" },
+        { "key": "Video Quality", "value": "4K" },
+        { "key": "Lens", "value": "18-55mm" },
+        { "key": "Weight", "value": "1.2kg" }
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "other_field": { "brand": "FotoPro", "connectivity": "WiFi" }
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Smart Watch",
+      "product_image": "https://i.ibb.co.com/h8m2VVG/download-7.jpg",
+      "category": "Wearable Technology",
+      "price": 199.99,
+      "description": "Advanced smartwatch with fitness tracking and heart rate monitoring.",
+      "specification": [
+        { "key": "Battery Life", "value": "7 days" },
+        { "key": "Display", "value": "1.3 inch OLED" },
+        { "key": "Water Resistance", "value": "5 ATM" },
+        { "key": "Compatibility", "value": "iOS and Android" }
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "other_field": { "brand": "FitLife", "color": "Black" }
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Bluetooth Speaker",
+      "product_image": "https://i.ibb.co.com/KWdtjCc/download-8.jpg",
+      "category": "Audio",
+      "price": 79.99,
+      "description": "Portable Bluetooth speaker with powerful bass and 12-hour battery life.",
+      "specification": [
+        { "key": "Battery Life", "value": "12 hours" },
+        { "key": "Bluetooth Version", "value": "5.0" },
+        { "key": "Waterproof", "value": "IPX7" },
+        { "key": "Weight", "value": "500g" }
+      ],
+      "availability": true,
+      "rating": 4.3,
+      "other_field": { "brand": "SoundWave", "color": "Blue" }
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Portable Air Conditioner",
+      "product_image": "https://i.ibb.co.com/SrK2kRf/download-9.jpg",
+      "category": "Home Appliances",
+      "price": 349.99,
+      "description": "Portable air conditioner with remote control and energy-saving features.",
+      "specification": [
+        { "key": "Cooling Power", "value": "12000 BTU" },
+        { "key": "Room Size", "value": "Up to 400 sq ft" },
+        { "key": "Energy Rating", "value": "A++" },
+        { "key": "Noise Level", "value": "52 dB" }
+      ],
+      "availability": false,
+      "rating": 4.1,
+      "other_field": { "brand": "CoolMax", "warranty": "2 years" }
+    }
+  ]
+  
